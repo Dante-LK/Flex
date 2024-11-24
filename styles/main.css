@@ -65,6 +65,8 @@ h3{
 
 .container2{
   display: flex;
+  width: 100%;
+
 }
 
 .side-info{
@@ -102,6 +104,7 @@ p{
 }
 
 .Hot-Services{
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   margin-top: 84px;
@@ -109,7 +112,8 @@ p{
 }
 
 .Hotcontainer{
-  width: 286px;
+  min-width: 286px;
+  max-width: 286px;
   margin-right: 33px;
 }
 

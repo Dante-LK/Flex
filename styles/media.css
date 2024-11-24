@@ -1,0 +1,22 @@
+@media screen and (max-width: 1246px) {
+  .Hotcontainer{
+    margin-bottom: 20px;
+    max-width: 350px;
+    min-width: 350px;
+  }
+
+}
+
+@media screen and (max-width: 1205px) {
+  .Hotcontainer{
+    max-width: 550px;
+    min-width: 550px;
+  }
+
+}
+
+@media screen and (max-width: 1205px) {
+
+}
+
+
